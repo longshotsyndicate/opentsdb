@@ -22,7 +22,7 @@ public final class Const {
   public static final short TIMESTAMP_BYTES = 4;
 
   /** Maximum number of tags allowed per data point.  */
-  private static short MAX_NUM_TAGS = 8;
+  private static short MAX_NUM_TAGS = 10;
   public static short MAX_NUM_TAGS() {
     return MAX_NUM_TAGS;
   }
